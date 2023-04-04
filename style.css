@@ -43,7 +43,7 @@ button{
   background-color: #050A30;
 }
 
-.hapus, .delete{
+.hapus, .del{
   background-color: #FA8072;
 }
 
@@ -55,5 +55,5 @@ button:hover{
   background-color: #0074B7;
 }
 
-.hapus:hover, .delete:hover{
+.hapus:hover, .del:hover{
   background-color: #FFFAFA;
